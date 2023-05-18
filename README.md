@@ -32,7 +32,10 @@ pip install -U scikit-learn
 
 ## Usage
 
+```
 Simply replace the Data in the "Resource" folder, for current data to see price change segementation. If having trouble simply resate the path of the data file for ones own relative path.
+```
+
 ---
 
 ## Contributors
